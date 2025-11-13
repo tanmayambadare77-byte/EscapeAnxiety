@@ -1,0 +1,5 @@
+.env
+*.pyc
+__pycache__/
+app/ml/mood_model.pkl
+escape_anxiety.db
