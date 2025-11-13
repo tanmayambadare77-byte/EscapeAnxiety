@@ -1,0 +1,6 @@
+# Environment variables example
+SECRET_KEY=replace_this_with_a_secure_random_string
+DATABASE_URL=sqlite:///./escape_anxiety.db
+JWT_EXPIRATION_MINUTES=60
+ALGORITHM=HS256
+MODEL_PATH=app/ml/mood_model.pkl
